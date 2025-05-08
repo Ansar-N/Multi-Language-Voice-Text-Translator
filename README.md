@@ -50,8 +50,8 @@ Replace the image URLs below with your actual screenshot URLs or local image pat
 Open your terminal (Command Prompt or PowerShell) and run:
 
 ```bash
-git clone https://github.com/yourusername/voice-text-translator.git
-cd voice-text-translator
+git clone https://github.com/Ansar-N/Multi-Language-Voice-Text-Translator.git
+cd Multi-Language-Voice-Text-Translator
 ```
 
 ### 2️⃣ Create a Virtual Environment
