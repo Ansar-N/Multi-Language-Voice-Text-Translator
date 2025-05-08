@@ -34,12 +34,11 @@ A sleek, modern, and multilingual translator application built with Python. Tran
 
 ## 📸 Screenshots
 
-Replace the image URLs below with your actual screenshot URLs or local image paths if working offline:
 
-- **Dark Mode:**  
-  ![Dark Mode](your_dark_mode_screenshot.png)
-- **Light Mode:**  
-  ![Light Mode](your_light_mode_screenshot.png)
+- **Screenshot_1**  
+  ![screenshot](https://github.com/Ansar-N/Multi-Language-Voice-Text-Translator/blob/main/screenshot-1.jpg)
+- **Screenshot_2**  
+  ![Light Mode](https://github.com/Ansar-N/Multi-Language-Voice-Text-Translator/blob/main/screenshot-2.jpg)
 
 ---
 
