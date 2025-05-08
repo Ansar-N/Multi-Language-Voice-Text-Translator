@@ -79,7 +79,7 @@ pip install -r requirements.txt
 Launch the app with:
 
 ```bash
-python app.py
+python main.py
 ```
 
 Once launched, you can:
